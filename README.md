@@ -1,9 +1,9 @@
 ---
-title: TechSpecs
-description: A fast modern search engine for consumer electronics
-author: Ral C. Oz
-tags: search, tech specs, consumer electronics, smartphone
-colors: Blue
+Title: TechSpecs
+Description: A fast modern search engine for consumer electronics
+Author: Ral C. Oz
+Tags: search, tech specs, consumer electronics, smartphone
+Colors: Blue
 
 
 ---
