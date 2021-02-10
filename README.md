@@ -1,11 +1,10 @@
 ---
-title: Solarized
-description: Precision colors for machines and people
-author: Ethan Schoonover
-tags: test, testing, test123
-colors: light yellow
-created:  2011 Mar 15
-modified: 2011 Apr 16
+title: TechSpecs
+description: A fast modern search engine for consumer electronics
+author: Ral C. Oz
+tags: search, tech specs, consumer electronics, smartphone
+colors: Blue
+
 
 ---
 
