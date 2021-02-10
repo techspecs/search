@@ -1,4 +1,7 @@
 # TechSpecs Search
+
+TechSpecs is an open source modern, high quality, ad-free search engine that makes it easy for you to find and compare the world's consumer electronics.
+
 Founded in 2016, our mission is to standardize, index and make the world's consumer electronics technical specifications more accessible to everyone.
 
 
