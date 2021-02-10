@@ -1,3 +1,14 @@
+---
+title: Solarized
+description: Precision colors for machines and people
+author: Ethan Schoonover
+tags: test, testing, test123
+colors: light yellow
+created:  2011 Mar 15
+modified: 2011 Apr 16
+
+---
+
 # TechSpecs Search
 
 TechSpecs is a modern, high quality, ad-free, open source search engine that makes it easy for you to find and compare the world's consumer electronics.
